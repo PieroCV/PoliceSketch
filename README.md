@@ -57,8 +57,13 @@ Se empezó el entrenamiento con Rectified Adam a 2e-4, disminuyendo este paráme
 ### Resultados
 La red generadora, si bien acierta en el color de algunos detalles de los rostros (cabello ozcuro, cambio de detalle en pómulos, labios rojos), la generación de imágen no es la esperada. Uno de los factores más importantes que podemos identificar es la poca cantidad de datos existentes en nuestro dataset. Si bien 754 imágenes podrían parecer una gran cantidad, lo cierto es que las redes GAN requieren una mucho mayor cantidad de datos para aprender a generalizar de manera óptima alguna tarea.
 A continuación algunos resultados:
+
 ![Ejemplo](images/ejemplo1.png)
+
 ![Ejemplo](images/ejemplo2.png)
+
 ![Ejemplo](images/ejemplo3.png)
+
 ![Ejemplo](images/ejemplo4.png)
+
 ![Ejemplo](images/ejemplo5.png)
